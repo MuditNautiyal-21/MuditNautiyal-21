@@ -14,7 +14,7 @@
 
 
 ![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/MuditNautiyal-21/fraud-detection-project?style=social)
 
 
 Welcome to my GitHub! I'm a passionate learner, aspiring Data Scientist, and tech enthusiast who enjoys solving real-world problems with data.
