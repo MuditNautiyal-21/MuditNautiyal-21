@@ -37,5 +37,5 @@ Welcome to my GitHub! I'm a passionate learner, aspiring Data Scientist, and tec
 <!-- - 📈 [Tesla Stock Price Predictor](https://github.com/MuditNautiyal-21/tesla-stock-analysis-project-python) -->
 
 ### 📫 Let’s Connect!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mudit-nautiyal/)
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" height="22">](https://www.linkedin.com/in/your-linkedin-handle) &nbsp; [LinkedIn](https://www.linkedin.com/in/mudit-nautiyal/)
 - 📧 muditnautiyalusa@gmail.com
