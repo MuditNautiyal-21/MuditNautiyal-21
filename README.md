@@ -15,8 +15,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/MuditNautiyal-21/fraud-detection-project?style=social)
+![GitHub followers](https://img.shields.io/github/followers/MuditNautiyal-21?style=social)
+![GitHub stars](https://img.shields.io/github/stars/MuditNautiyal-21?style=social)
 
 
 Welcome to my GitHub! I'm a passionate learner, aspiring Data Scientist, and tech enthusiast who enjoys solving real-world problems with data.
@@ -55,7 +55,3 @@ Welcome to my GitHub! I'm a passionate learner, aspiring Data Scientist, and tec
 ### 📫 Let’s Connect!
 - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" height="22">](https://www.linkedin.com/in/your-linkedin-handle) &nbsp; [LinkedIn](https://www.linkedin.com/in/mudit-nautiyal/)
 - 📧 muditnautiyalusa@gmail.com
-
-### 📊 GitHub Stats (Coming Soon)
-![GitHub followers](https://img.shields.io/github/followers/MuditNautiyal-21?style=social)
-![GitHub stars](https://img.shields.io/github/stars/MuditNautiyal-21?style=social)
