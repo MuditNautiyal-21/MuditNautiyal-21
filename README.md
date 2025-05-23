@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Mudit Nautiyal
 
-🎓 I'm a data-driven thinker with a passion for solving real-world problems using machine learning, forecasting, and automation. I specialize in building interpretable models, analyzing data patterns, and delivering business-ready insights.
+🎯 Aspiring Data Scientist | Forecasting & Automation Enthusiast | Solving Real-World Problems with ML
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -19,39 +19,53 @@
 ![GitHub stars](https://img.shields.io/github/stars/MuditNautiyal-21?style=social)
 
 
-Welcome to my GitHub! I'm a passionate learner, aspiring Data Scientist, and tech enthusiast who enjoys solving real-world problems with data.
+## 🧠 About Me
 
-### 🧠 Skills & Tools
-
-**Languages & Libraries**
-- Python, Pandas, NumPy, Matplotlib, Seaborn  
-- Scikit-learn, XGBoost, TensorFlow, Keras  
-- Statsmodels, ARIMA, Holt-Winters, SARIMA  
-
-**Tools & Workflow**
-- Jupyter, VS Code, Git & GitHub  
-- Streamlit (learning), Flask (learning), SQLite  
-
-**Core Strengths**
-- Forecasting & Time Series Modeling  
-- Classification & Anomaly Detection  
-- EDA & Data Storytelling  
-- GitHub Project Structuring
+I’m a Data Science graduate student at the University at Buffalo with a foundation in enterprise-scale data automation (HCL Technologies), and a passion for building interpretable machine learning solutions.
 
 
-### 🔥 Featured Projects
-- 🔍 [Fraud Detection in Credit Card Transactions](https://github.com/MuditNautiyal-21/Credit-Card-Fraud-Detection)  
-  *Unsupervised Learning using Isolation Forest & Autoencoder*
+My work spans:
 
-- 📈 [Tesla Stock Analysis](https://github.com/MuditNautiyal-21/tesla-stock-analysis-project-python)  
-  *Regression, Clustering, and SQL-backed trend modeling*
+- 🔍 Fraud Detection with Unsupervised ML  
+- 📈 Time Series Forecasting with Holt-Winters, ARIMA, SARIMA  
+- 📊 Exploratory Data Analysis and SQL-backed dashboards  
+- 📦 Deployable, well-documented GitHub repositories
 
-- 🍷 [Wine Sales Forecasting](https://github.com/MuditNautiyal-21/Wine-Forecasting-Project)  
-  *Time Series Forecasting with Holt-Winters, ARIMA, SARIMA — RMSE-based selection*
+---
 
-<!-- Add more featured repos below -->
-<!-- - 📈 [Tesla Stock Price Predictor](https://github.com/MuditNautiyal-21/tesla-stock-analysis-project-python) -->
+## 🔥 Featured Projects
 
-### 📫 Let’s Connect!
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" height="22">](https://www.linkedin.com/in/your-linkedin-handle) &nbsp; [LinkedIn](https://www.linkedin.com/in/mudit-nautiyal/)
-- 📧 muditnautiyalusa@gmail.com
+### [🍷 Wine Sales Forecasting](https://github.com/MuditNautiyal-21/Wine-Forecasting-Project)
+> Forecasted monthly wine sales using 7 time series models. Best RMSE: 9.64 with Holt-Winters. Full EDA, model comparison, and production-ready documentation.
+
+---
+
+### [🔐 Fraud Detection in Credit Card Transactions](https://github.com/MuditNautiyal-21/Credit-Card-Fraud-Detection)
+> Isolation Forest vs. Autoencoder for fraud detection using unlabeled data. Includes classification reports, confusion matrices, and visual comparisons.
+
+---
+
+### [📉 Tesla Stock Analysis](https://github.com/MuditNautiyal-21/tesla-stock-analysis-project-python)
+> SQL-integrated EDA, clustering, and regression modeling. Full notebook includes normalized feature visualization, K-Means clustering, and trend analysis.
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**: Python, R, SQL  
+**Libraries**: Pandas, NumPy, Scikit-learn, Statsmodels, TensorFlow, Keras  
+**Forecasting**: Holt-Winters, ARIMA, SARIMA  
+**Tools**: Jupyter, GitHub, VS Code, Streamlit (learning)  
+**Platforms**: AWS, Power BI, Tableau, Informatica MDM
+
+---
+
+## 📫 Contact
+
+- **GitHub**: [github.com/MuditNautiyal-21](https://github.com/MuditNautiyal-21)  
+- **LinkedIn**: [linkedin.com/in/mudit-nautiyal](https://www.linkedin.com/in/mudit-nautiyal)  
+- **Email**: muditnautiyalusa@gmail.com
+
+---
+
+> 🧠 Let's connect and collaborate on building scalable, intelligent solutions driven by data.
