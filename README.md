@@ -25,7 +25,7 @@ I bridge the gap between **Enterprise Engineering** (3+ years at HCL) and **AI I
 * **Tech:** Python, OCR, LLMs (LangChain)
 * **Impact:** Automates medical billing reconciliation using GenAI for entity extraction.
 
-### [Sudanaxi (Trading Intelligence)](https://github.com/MuditNautiyal-21/Sudanaxi)
+### [Sudanaxi (Trading Intelligence)](https://sudnaxi-trading-intelligence.onrender.com/)
 * **Status:** Prototype
 * **Tech:** Python, APIs, Sentiment Analysis
 * **Impact:** Real-time analytics engine integrating sentiment scoring across 9 global markets.
