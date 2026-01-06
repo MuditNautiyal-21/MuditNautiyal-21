@@ -5,25 +5,43 @@
 
 I bridge the gap between **Enterprise Engineering** (3+ years at HCL) and **AI Innovation** (LLMs/Computer Vision). I build scalable pipelines, deploy edge AI models, and turn raw data into executive insights.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Informatica](https://img.shields.io/badge/Informatica-FF4D00?style=flat-square&logo=informatica&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+---
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 🛠️ Tech Stack
 
-![GitHub followers](https://img.shields.io/github/followers/MuditNautiyal-21?style=social)
+**Languages & Databases**<br/>
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
+
+**Data Engineering & Big Data**<br/>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Informatica](https://img.shields.io/badge/Informatica-FF4D00?style=plastic&logo=informatica&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=plastic&logo=apachespark&logoColor=black)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black)
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=plastic&logo=apachehive&logoColor=black)
+
+**AI, Machine Learning & Computer Vision**<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+
+**Visualization, Deployment & Tools**<br/>
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 
 ---
 
-## Featured Projects
+### Featured Projects (From my Resume)
 
 ### [MediFriend (AI-Powered Medical Billing)](https://github.com/MuditNautiyal-21/MediFriend)
 * **Winner - AI Hackathon**
@@ -42,29 +60,18 @@ I bridge the gap between **Enterprise Engineering** (3+ years at HCL) and **AI I
 
 ---
 
-## Other Data Science Projects
+### Other Data Science Projects
 
-### [Wine Sales Forecasting](https://github.com/MuditNautiyal-21/Wine-Forecasting-Project)
+**[Wine Sales Forecasting](https://github.com/MuditNautiyal-21/Wine-Forecasting-Project)**
 * **Best RMSE: 9.64** with Holt-Winters.
 * 7 Time-series models comparison (ARIMA, SARIMA).
 
-### [Fraud Detection in Credit Card Transactions](https://github.com/MuditNautiyal-21/Credit-Card-Fraud-Detection)
+**[Fraud Detection in Credit Card Transactions](https://github.com/MuditNautiyal-21/Credit-Card-Fraud-Detection)**
 * Anomaly detection using Isolation Forest & Autoencoders.
 
+**[Data Science & Business Analytics Project E-Portfolio](https://eportfolio.mygreatlearning.com/mudit-nautiyal)
 ---
 
-## Technical Skills
-
-- **Languages:** Python, SQL (Advanced), R, Bash, C++
-- **Engineering:** AWS (S3, Glue, Redshift), Informatica MDM, Spark, Airflow, ETL/ELT
-- **AI/ML:** LLMs, Computer Vision (YOLO), PyTorch, TensorFlow
-- **BI & Vis:** Power BI, Tableau, Excel (Pivot/VLOOKUP)
-
----
-
-## Connect
-
+### 📫 Connect
 - [LinkedIn Profile](https://linkedin.com/in/mudit-nautiyal)
 - **Email:** nautiyal.mudit.21@gmail.com
-
-[![](https://visitcount.itsvg.in/api?id=MuditNautiyal-21&icon=0&color=0)](https://visitcount.itsvg.in)
