@@ -67,10 +67,4 @@ I bridge the gap between **Enterprise Engineering** (3+ years at HCL) and **AI I
 - [LinkedIn Profile](https://linkedin.com/in/mudit-nautiyal)
 - **Email:** nautiyal.mudit.21@gmail.com
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuditNautiyal-21&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MuditNautiyal-21&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuditNautiyal-21&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=MuditNautiyal-21&icon=0&color=0)](https://visitcount.itsvg.in)
