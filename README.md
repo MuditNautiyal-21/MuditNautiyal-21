@@ -23,7 +23,7 @@ I bridge the gap between **Enterprise Engineering** (3+ years at HCL) and **AI I
 
 ---
 
-## Featured Projects (From my Resume)
+## Featured Projects
 
 ### [MediFriend (AI-Powered Medical Billing)](https://github.com/MuditNautiyal-21/MediFriend)
 * **Winner - AI Hackathon**
