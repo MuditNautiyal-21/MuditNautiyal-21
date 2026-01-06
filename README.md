@@ -68,9 +68,17 @@ I bridge the gap between **Enterprise Engineering** (3+ years at HCL) and **AI I
 - **Email:** nautiyal.mudit.21@gmail.com
 
 # GitHub Stats:
-![Mudit's Stats](https://github-readme-stats.vercel.app/api?username=MuditNautiyal-21&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![Mudit's Streak](https://streak-stats.demolab.com?user=MuditNautiyal-21&theme=dark&hide_border=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuditNautiyal-21&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
----
-[![Visitor Count](https://visitcount.itsvg.in/api?id=MuditNautiyal-21&icon=0&color=0)](https://visitcount.itsvg.in)
+![Mudit's Stats](https://github-readme-stats.vercel.app/api?username=MuditNautiyal-21&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![Mudit's Streak](https://streak-stats.demolab.com?user=MuditNautiyal-21&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuditNautiyal-21&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=MuditNautiyal-21&icon=0&color=0" alt="Visitor Count" />
+</a>
+
+</div>
