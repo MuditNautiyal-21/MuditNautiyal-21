@@ -1,73 +1,63 @@
-# 👋 Hi there! I'm Mudit Nautiyal
+# Mudit Nautiyal
 
-🎯 Aspiring Data Scientist | Forecasting & Automation Enthusiast | Solving Real-World Problems with ML
+### Data Scientist | Data Engineer | Ex-HCL Technologies
+*Master's in Data Science @ University at Buffalo*
+
+I bridge the gap between **Enterprise Engineering** (3+ years at HCL) and **AI Innovation** (LLMs/Computer Vision). I build scalable pipelines, deploy edge AI models, and turn raw data into executive insights.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
 
 ![GitHub followers](https://img.shields.io/github/followers/MuditNautiyal-21?style=social)
-![GitHub stars](https://img.shields.io/github/stars/MuditNautiyal-21?style=social)
-
-
-## 🧠 About Me
-
-I’m a Data Science graduate student at the University at Buffalo with a foundation in enterprise-scale data automation (HCL Technologies) and a passion for building interpretable machine learning solutions.
-
-My work spans:
-
-- 🔐 Fraud Detection with Unsupervised ML  
-- 📈 Time Series Forecasting with Holt-Winters, ARIMA, SARIMA  
-- 📊 Exploratory Data Analysis and SQL-backed dashboards  
-- 📦 Deployable, well-documented GitHub repositories
 
 ---
 
-## 🔥 Featured Projects
+## Featured Projects (From my Resume)
 
-### [🍷 Wine Sales Forecasting](https://github.com/MuditNautiyal-21/Wine-Forecasting-Project)
-Forecasted monthly wine sales using 7 time series models.  
-**Best RMSE: 9.64** with Holt-Winters. Includes EDA, model comparison, visual forecasts, and professional documentation.
+### [MediFriend (AI-Powered Medical Billing)](https://github.com/MuditNautiyal-21/MediFriend)
+* **Winner - AI Hackathon**
+* **Tech:** Python, OCR, LLMs (LangChain)
+* **Impact:** Automates medical billing reconciliation using GenAI for entity extraction.
 
----
+### [Sudanaxi (Trading Intelligence)](https://github.com/MuditNautiyal-21/Sudanaxi)
+* **Status:** Prototype
+* **Tech:** Python, APIs, Sentiment Analysis
+* **Impact:** Real-time analytics engine integrating sentiment scoring across 9 global markets.
 
-### [🔐 Fraud Detection in Credit Card Transactions](https://github.com/MuditNautiyal-21/Credit-Card-Fraud-Detection)
-Built anomaly detection models using Isolation Forest & Autoencoder on unlabeled credit card data.  
-Includes classification reports, confusion matrices, and precision-recall tradeoffs.
-
----
-
-### [📉 Tesla Stock Analysis](https://github.com/MuditNautiyal-21/tesla-stock-analysis-project-python)
-Performed SQL-powered analysis of Tesla stock performance.  
-Includes feature engineering, clustering, regression, trend plots, and KPI dashboard.
-
----
-
-## 🧰 Tech Stack
-
-- **Languages**: Python, R, SQL  
-- **Libraries**: Pandas, NumPy, Scikit-learn, Statsmodels, TensorFlow, Keras  
-- **Forecasting**: Holt-Winters, ARIMA, SARIMA  
-- **Tools**: Jupyter, GitHub, VS Code, Streamlit (learning)  
-- **Platforms**: AWS, Power BI, Tableau, Informatica MDM
+### [Vision AI Capstone (Nissha Medical Overview)](https://github.com/MuditNautiyal-21/)
+* **Role:** Team Lead
+* **Tech:** YOLOv8, NVIDIA Jetson, Power BI
+* **Impact:** Architected a system inspecting 30M tickets/day with 99% accuracy.
 
 ---
 
-## 📫 Contact
+## Other Data Science Projects
 
-- 🔗 [GitHub](https://github.com/MuditNautiyal-21)  
-- 💼 [LinkedIn](https://linkedin.com/in/mudit-nautiyal)  
-- 📧 Email: muditnautiyalusa@gmail.com
+### [Wine Sales Forecasting](https://github.com/MuditNautiyal-21/Wine-Forecasting-Project)
+* **Best RMSE: 9.64** with Holt-Winters.
+* 7 Time-series models comparison (ARIMA, SARIMA).
+
+### [Fraud Detection in Credit Card Transactions](https://github.com/MuditNautiyal-21/Credit-Card-Fraud-Detection)
+* Anomaly detection using Isolation Forest & Autoencoders.
 
 ---
 
-> Let’s connect and collaborate on building scalable, intelligent solutions driven by data.
+## Technical Skills
+
+- **Languages:** Python, SQL (Advanced), R, Bash, C++
+- **Engineering:** AWS (S3, Glue, Redshift), Spark, Airflow, ETL/ELT
+- **AI/ML:** LLMs, Computer Vision (YOLO), PyTorch, TensorFlow
+- **BI & Vis:** Power BI, Tableau, Excel (Pivot/VLOOKUP)
+
+---
+
+## Connect
+
+- [LinkedIn Profile](https://linkedin.com/in/mudit-nautiyal)
+- **Email:** nautiyal.mudit.21@gmail.com
