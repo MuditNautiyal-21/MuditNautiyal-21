@@ -107,3 +107,8 @@ I bridge the gap between **Enterprise Engineering** (3+ years at HCL) and **AI I
 ### 📫 Connect
 - [LinkedIn Profile](https://linkedin.com/in/mudit-nautiyal)
 - **Email:** nautiyal.mudit.21@gmail.com
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuditNautiyal-21&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
