@@ -18,7 +18,7 @@
 
 Before that, I was at **Uttarakhand Aaj**, a digital news platform operating across **13 states**, where I built the analytical case that got leadership to approve a full infrastructure migration from monolithic to modular architecture.
 
-**Master of Professional Studies (MPS) in Data Science & Applications, University at Buffalo** (Dec 2025). Currently seeking **Data Engineer, Data Analyst, Data Scientist, and ML Engineer** roles.
+**Master of Professional Studies (MPS) in Data Science & Applications, University at Buffalo** (Dec 2025). Currently seeking **Data Engineer, Data Analyst, Data Scientist, and ML/AI Engineer** roles.
 
 ---
 
